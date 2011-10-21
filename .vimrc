@@ -1,0 +1,1 @@
+/Users/mauriciosilva/.vimrc
